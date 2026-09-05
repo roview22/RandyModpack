@@ -1,0 +1,13 @@
+name = "Randy Modpack"
+author = "Roview"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0227b2d2a41c3d9b7bb6d8937e93fe4b68f19e8f1ff7dfd122c37d6fd1a516d0"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.2"
