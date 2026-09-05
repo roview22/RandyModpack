@@ -4,3 +4,18 @@ hash-format = "sha256"
 file = "mods/fabric-api.pw.toml"
 hash = "2f63ca526981e06de2c3b9684cfb7e21abf636cf9f0f657b9151685cd11692a7"
 metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "9ceb72b7c586df8828ee5e9eaf096c913f8debe92805cd5ce6c4ea8922e5fe1d"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "b234ade7fd54bb9d99c27769cd1635b18835752676d0cdd0a29af2b4146251a8"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "80914734f597e4759cfc6c79a8391fad96c09109b79895439e456b61662bdcb6"
+metafile = true
