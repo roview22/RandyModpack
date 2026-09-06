@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/globalpacks/resources/Randy Pack Java 1.0.zip"
-hash = "3d70c5577c9f9c3e1116f23ef6ea3342bcdfe070bcf7ce209ad543a5939421fe"
+file = "config/global_packs.toml"
+hash = "8dd48fa4bc34af8e1c5c4cdd9bd4d48824d7cbb095ee4028c9e0424be3bf7931"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -183,6 +183,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "393c8e4dc6e15eecc32e152d835cd8f3dce96b40b5984ca00b6e0142ede7396f"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Randy Pack Java 1.0.zip"
+hash = "3d70c5577c9f9c3e1116f23ef6ea3342bcdfe070bcf7ce209ad543a5939421fe"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
