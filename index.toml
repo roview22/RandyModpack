@@ -50,11 +50,6 @@ hash = "ba10e235a3e4baac4862bb74a9b8b2fe7d4f2465620255195fb661a5e9c968d7"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "ce280969fa45ec982f36067934c36f76098dcf8b0c71bab46691e6b5b8e9664e"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "44ee083173741300ced9075e99b4aebec1c2ab230e69500f34844b5e41b7aa27"
 metafile = true
@@ -182,6 +177,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
+metafile = true
+
+[[files]]
+file = "mods/voxy-server-side.pw.toml"
+hash = "50fcf7a65d1bb4e3d9c73a6534805b500065ae1fdb2dc6089d622f9a91d96da0"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "71d059b58ff61f935fb117777ddac39ee49d733500ff6ec9233121b7b3cbc9b0"
 metafile = true
 
 [[files]]
