@@ -76,6 +76,11 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "40e90e4fcf96b43a76dd16f48d5fdb0b91d74dcf60fb34a39e58a5bdfb2abf72"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2c5cb7b630f770c1cbd923135dca774367fa28dfdca7e3f9c38314729d566b38"
 metafile = true
