@@ -5,6 +5,11 @@ file = "config/global_packs.toml"
 hash = "8dd48fa4bc34af8e1c5c4cdd9bd4d48824d7cbb095ee4028c9e0424be3bf7931"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "9bc3807d34ba58c5fab2d5ebf1d795c1212b0706dabcdda16a7a3684c8973c1e"
+metafile = true
+
+[[files]]
 file = "mods/armor-3d.pw.toml"
 hash = "ff7edaf9ff1b4e337dfea031b9302284dcb03d02a86173656cae394d172f3eb9"
 metafile = true
@@ -172,11 +177,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "a83f944cf699f5c8f179c4fec4c28067f859f7f550e56741df2159878b6dc240"
-metafile = true
-
-[[files]]
-file = "mods/skinshuffle.pw.toml"
-hash = "9d04ade08321764c72352c4e8203a0ffc77f157e82b4db55c5f29c06508263ae"
 metafile = true
 
 [[files]]
