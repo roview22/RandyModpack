@@ -175,6 +175,11 @@ hash = "a83f944cf699f5c8f179c4fec4c28067f859f7f550e56741df2159878b6dc240"
 metafile = true
 
 [[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "9d04ade08321764c72352c4e8203a0ffc77f157e82b4db55c5f29c06508263ae"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
 metafile = true
