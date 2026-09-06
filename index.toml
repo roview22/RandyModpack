@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/globalpacks/resources/Randy Pack Java 1.0.zip"
+hash = "3d70c5577c9f9c3e1116f23ef6ea3342bcdfe070bcf7ce209ad543a5939421fe"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "9bc3807d34ba58c5fab2d5ebf1d795c1212b0706dabcdda16a7a3684c8973c1e"
 metafile = true
