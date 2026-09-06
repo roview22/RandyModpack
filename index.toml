@@ -14,7 +14,7 @@ hash = "8e15b8fdd11e054e25d49c37ce6a448807a7e6e34f9c3b46dc4d222aa0aca44b"
 
 [[files]]
 file = "config/fancymenu/customization/changelog_layout.txt"
-hash = "6aeaf3b61d6adbb26bf34539f1302e51484a0d7e33583e3ab7e60200bf902ff7"
+hash = "bde53a1ff6a0886c5671931e301e3c06b6436b53e7f73f00968ea1b09048b4a0"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
