@@ -1,4 +1,4 @@
-#Changelog
+# Changelog
 
 - Added Randy join button
 - Added changelog button
