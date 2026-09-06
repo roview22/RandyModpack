@@ -56,6 +56,11 @@ hash = "ef9b3d887d5b2b31809fda35b2bfa4d68346e4491d4b52128358c2ed77741b89"
 metafile = true
 
 [[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "0c62f0bd58305c61a5f50aaa974cab8bf4ca3a870726c7a0f527729514cd70af"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2f63ca526981e06de2c3b9684cfb7e21abf636cf9f0f657b9151685cd11692a7"
 metafile = true
@@ -142,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "80914734f597e4759cfc6c79a8391fad96c09109b79895439e456b61662bdcb6"
+hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
 metafile = true
 
 [[files]]
