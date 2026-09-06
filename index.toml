@@ -150,6 +150,11 @@ hash = "e37b46af7cfa8f24e9895c37789b43d80d8abe519becf4f08d9e1ea1529fc126"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "0d21cfc05d3eaee705f131e9f8f8a742bb8928916cce378f2e7e7c9e8be7962d"
+metafile = true
+
+[[files]]
 file = "mods/overlaylib.pw.toml"
 hash = "3306d9acc6df37a0b7e12ca5ee1976677aafa99cf2039fc69eec0d8d33af281f"
 metafile = true
