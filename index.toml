@@ -175,11 +175,6 @@ hash = "7995dfdf3508f005943c3e5600b3756ef0c3eef735245fa88646cd5cc733a814"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "2ba16a37d94a9d3018baa200bd8335df1bc7c41efded59d12ea660632dd28b6c"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "a83f944cf699f5c8f179c4fec4c28067f859f7f550e56741df2159878b6dc240"
 metafile = true
