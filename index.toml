@@ -159,3 +159,8 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "393c8e4dc6e15eecc32e152d835cd8f3dce96b40b5984ca00b6e0142ede7396f"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "398e092a677a434bf1565ecd6bdd89a903b61dae86c8f287a73c9adae89df22a"
+metafile = true
