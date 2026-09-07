@@ -5,6 +5,18 @@ file = "config/drippyloadingscreen/options.txt"
 hash = "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5"
 
 [[files]]
+file = "config/fancymenu/assets/shrimp16.png"
+hash = "e311df5f4eb15e8388b7396dd5165346d02a670a34c65499c6b9666e7e790448"
+
+[[files]]
+file = "config/fancymenu/assets/shrimp16mac.icns"
+hash = "1aabfaa328868c8ab69fce1418bb980d8ddfe1a34e7fc4eff6dbc1b80668f3d0"
+
+[[files]]
+file = "config/fancymenu/assets/shrimp32.png"
+hash = "daf57729f940da3bbaf26fa692df4f73060088b87ee828721a899db8e310081a"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "af74c350261ba370c80cb4104bde2309c4ef444e3e4a34c01b910f9551eb1698"
 
@@ -14,7 +26,7 @@ hash = "8e15b8fdd11e054e25d49c37ce6a448807a7e6e34f9c3b46dc4d222aa0aca44b"
 
 [[files]]
 file = "config/fancymenu/customization/changelog_layout.txt"
-hash = "5c772141b9179f6727fd4682466aea85eef2fb106901ddc96a3bd31ddcfcde7a"
+hash = "06f434344f5a37e35747e87cb86dc82f216c8c2c819abb14ef201482f1f00470"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
@@ -22,7 +34,7 @@ hash = "9df623db7d5834be08856f8aa1b36cd5f8440c4ecd60e58afb13b788eb208835"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "d9f00cb9e8ca1c371d0af26d431c2f02c74ffbfccc29c305a71ef645ae87e938"
+hash = "a7843be3ff79b60caf6efb6f4d8131f3736dba12db83a8dff8ed1e4576d2806e"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -34,7 +46,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "5b1b8ce5bcdc47c7c343cb4d1721d5e5274a9242f50c40380d31cc864223ff72"
+hash = "4222bc50b8555395006d9a2c98364e8541b3fe2b7f9fd3615067673b383d4351"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
