@@ -14,15 +14,15 @@ hash = "8e15b8fdd11e054e25d49c37ce6a448807a7e6e34f9c3b46dc4d222aa0aca44b"
 
 [[files]]
 file = "config/fancymenu/customization/changelog_layout.txt"
-hash = "bde53a1ff6a0886c5671931e301e3c06b6436b53e7f73f00968ea1b09048b4a0"
+hash = "5c772141b9179f6727fd4682466aea85eef2fb106901ddc96a3bd31ddcfcde7a"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "0623ac2abc95a155c060a6fe71a2fe8d7103d587507466f8785531bde5f5d230"
+hash = "9df623db7d5834be08856f8aa1b36cd5f8440c4ecd60e58afb13b788eb208835"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "551ef59f898ad6417509c785f5927a9681c2885e42f5942c16c4da6d8bc13840"
+hash = "d9f00cb9e8ca1c371d0af26d431c2f02c74ffbfccc29c305a71ef645ae87e938"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
